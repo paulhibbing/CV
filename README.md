@@ -43,15 +43,15 @@ Anyway, enough blather. Here goes:
   significance of the change. (The significance piece is important and needs to make sense. Don't make a subheading
   bigger than the main heading and call it "contrast.") The idea of **repetition** is that your layout should follow
   consistent rules. Really, this should be called *consistency*, but it ruins the acronym. Don't make formatting changes
-  willy-nilly. Instead, make changes only when you can define a rule and apply it consistently throughout your document.
-  The idea of **alignment** is mostly about indentation and, well, alignment. At least for documents -- Graphic design pieces
-  are different. As I recall, the key points are: 1) Don't use center alignment; 2) Don't be afraid of left alignment; and
-  3) Whatever you do, don't mix alignments. Lastly, the idea of **proximity** is related to how you use space. Elements that
-  are close together should have a close relationship to each other. Elements that are far apart should be distinct from each
-  other. The big point is, avoid symmetrical spacing. Don't put 12pt before your heading and 12pt after. Take a look at what
-  happens when you instead put 18pt before and 6pt after. In general, this area gives me the most satisfaction in documents
-  (like a CV) that follow a strict outline. I find it looks nice to have progressively tighter spacing as you move down your
-  heading levels.
+  willy-nilly in a single place where something looks funny. Instead, make changes only when you can define a rule and
+  apply it consistently throughout your document. The idea of **alignment** is mostly about indentation and, well, alignment.
+  (At least this is true for documents -- Graphic design pieces are different.) As I recall, the key points are: 1) Don't use
+  center alignment; 2) Don't be afraid of left alignment; and 3) Whatever you do, don't mix alignments. Lastly, the idea of
+  **proximity** is related to how you use space. Elements that are close together should have a close relationship to each other.
+  Elements that are far apart should be distinct from each other. The big point is, avoid symmetrical spacing. Don't put 12pt
+  before your heading and 12pt after. Take a look at what happens when you instead put 18pt before and 6pt after. In general,
+  this area gives me the most satisfaction in documents (like a CV) that follow a strict outline. I find it looks nice to have
+  progressively tighter spacing as you move down your heading levels.
 
 - **A couple of opinions for the road.**  *1)* As you think about the above, never forget about white space. It's lovely to look
   at, and should guide your considerations about CRAP. This is why I really don't think length is a big issue for the CV. If it's
