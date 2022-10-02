@@ -1,4 +1,4 @@
-[Click here to download a "possibly recent" release of my CV.](https://github.com/paulhibbing/CV/raw/master/HibbingCV.pdf)
+[Click here to download a "possibly recent" release of my CV.](https://github.com/paulhibbing/CV/raw/main/HibbingCV.pdf)
 Below, you can read about my (probably ill-formed, but opinionated nonetheless) philosophy regarding the design and maintenance of a CV.
 Then, best of all, compare what I've said against what I've actually done in my CV, marveling at all the ways it's STILL
 terrible and doesn't even follow my own questionable advice. Lastly, [join the conversation](https://github.com/paulhibbing/CV/issues/1)
